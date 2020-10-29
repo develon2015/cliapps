@@ -1,6 +1,6 @@
 {
   "name": "clipps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "ip": "bin/ip.js",
     "param": "bin/param.js"
