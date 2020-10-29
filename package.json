@@ -1,15 +1,21 @@
 {
   "name": "clipps",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "bin": {
     "ip": "bin/ip.js",
     "param": "bin/param.js"
   },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
     "reinstall": "yarn unlink && yarn link"
   },
   "license": "MIT",
   "dependencies": {
-    "@develon/js": "^1.0.0"
+    "@develon/js": "^1.0.2"
   }
 }

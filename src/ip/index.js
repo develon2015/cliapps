@@ -1,4 +1,4 @@
-const { ip } = require('@develon/js/lib/node');
+const { ip, } = require('@develon/js/lib/node');
 
 void function main(argv) {
     ip().ipv4.forEach(ip => {

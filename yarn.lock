@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@develon/js@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/@develon/js/download/@develon/js-1.0.0.tgz#f709af3bee6db9ba4e2e8cfedc6b737ce4414764"
-  integrity sha1-9wmvO+5tubpOLoz+3GtzfORBR2Q=
+"@develon/js@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.npm.taobao.org/@develon/js/download/@develon/js-1.0.2.tgz#82ac6014e414c4794aac7abcc42d86be8455bac2"
+  integrity sha1-gqxgFOQUxHlKrHq8xC2GvoRVusI=
