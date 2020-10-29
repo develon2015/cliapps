@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "CLI program by Node.js.",
   "bin": {
-    "ip": "bin/ip.js",
+    "myip": "bin/myip.js",
     "param": "bin/param.js"
   },
   "files": [
