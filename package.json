@@ -1,6 +1,7 @@
 {
   "name": "clipps",
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "description": "CLI program by Node.js.",
   "bin": {
     "ip": "bin/ip.js",
     "param": "bin/param.js"
@@ -17,5 +18,10 @@
   "license": "MIT",
   "dependencies": {
     "@develon/js": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/develon2015/cliapps"
+  },
+  "homepage": "https://github.com/develon2015/cliapps"
 }
