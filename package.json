@@ -1,5 +1,5 @@
 {
-  "name": "clipps",
+  "name": "@develon/clipps",
   "version": "1.0.5",
   "description": "CLI program by Node.js.",
   "bin": {
@@ -22,6 +22,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "author": "develon",
   "repository": {
     "type": "git",
     "url": "https://github.com/develon2015/cliapps"
